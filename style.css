@@ -1,0 +1,16 @@
+h1 {
+    color: aquamarine;
+    text-align: center;
+}
+
+p{
+    font-size: large;
+    font-weight: 300;
+    text-decoration: underline;
+    color: brown;
+}
+h2 {
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
